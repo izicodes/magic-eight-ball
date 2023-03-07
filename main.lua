@@ -1,7 +1,7 @@
 -- Setting Up Variables
-local name = "Loa"
+local name = "User"
 
-local question = "Is the sky blue?"
+local question = "is the sky blue?"
 
 local number = 3
 
@@ -21,3 +21,6 @@ elseif number == 5 then
 else
   answer = "I am not allowed to say…"
 end
+
+-- Printing
+print(name .. " asks " .. question)
