@@ -24,3 +24,4 @@ end
 
 -- Printing
 print(name .. " asks " .. question)
+print(answer)
