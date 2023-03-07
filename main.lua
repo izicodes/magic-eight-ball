@@ -18,4 +18,6 @@ elseif number == 4 then
   answer = "It must be so."
 elseif number == 5 then
   answer = "I can't say for sure."
+else
+  answer = "I am not allowed to say…"
 end
