@@ -1,3 +1,3 @@
-name = "Loa"
+local name = "Loa"
 
-question = "Is the sky blue?"
+local question = "Is the sky blue?"
