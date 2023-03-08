@@ -16,7 +16,7 @@ This is a simple Lua project that simulates a Magic Eight Ball. The user asks a 
 6. The Magic Eight Ball will randomly choose one of its pre-set answers and display it on the screen.
 7. To exit the program, simply close the terminal or command prompt window.
 ### Via Repl.it
-1. Click this link to the repl of this project: [link](link)
+1. Click this link to the repl of this project: [link](https://replit.com/@xiacodes/Magic-Ball-8?v=1)
 2. The program will ask you to enter a yes-or-no question. Type your question and press Enter.
 3. The Magic Eight Ball will randomly choose one of its pre-set answers and display it on the screen.
 
